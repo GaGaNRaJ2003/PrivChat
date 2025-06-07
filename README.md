@@ -1,4 +1,4 @@
-# PrivChat# PrivChat – PII Detection & LLM Chat
+# PrivChat – PII Detection & LLM Chat
 
 PrivChat is a modern web application for detecting and highlighting Personally Identifiable Information (PII) in user prompts, and for interacting with a local Large Language Model (LLM) via Ollama. It features a beautiful chat UI, real-time PII highlighting, and a robust FastAPI backend.
 
